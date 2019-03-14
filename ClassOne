@@ -1,5 +1,9 @@
 ClassOne{
   public static void main(String[] args){
+
+  test: ClassTwo;
+
   System.out.print("Hello World !");
+  System.out.print(tests.toString());
   }
 }

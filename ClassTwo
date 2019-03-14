@@ -1,0 +1,6 @@
+ClassTwo{
+
+    public toString(){
+        return "ClassTwo";
+    }
+}

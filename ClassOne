@@ -1,7 +1,7 @@
 ClassOne{
   public static void main(String[] args){
 
-  test: ClassTwo;
+  ClassTwo test;
 
   System.out.print("Hello World !");
   System.out.print(tests.toString());
